@@ -1,5 +1,4 @@
-# Crime-SQL-Project
-Exploring Chicago_Crime Dataset With SQL
+I analyzed this dataset via Google Cloud's BigQuery feature. At there, there are free datasets from Kaggle.
 
 """
 SELECT primary_type, location_description, count(*)
